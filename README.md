@@ -1,1 +1,1 @@
-# DoraSync-Free
+# DoraSync Free Official Releases
